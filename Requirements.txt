@@ -1,0 +1,9 @@
+Modules
+1) numpy
+2) pandas
+3) nltk
+4) sklearn
+
+Systems
+1) jupyter notebook
+2) streamlit
