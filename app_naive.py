@@ -32,8 +32,8 @@ def transform_text(text):
 
     return " ".join(y)
 
-tfidf = pickle.load(open('vectorizer.pkl','rb'))
-model = pickle.load(open('model.pkl','rb'))
+tfidf = pickle.load(open('C:/Users/ckaus/Desktop/Machine Learning/Project/lib/vectorizer.pkl','rb'))
+model = pickle.load(open('C:/Users/ckaus/Desktop/Machine Learning/Project/lib/model.pkl','rb'))
 
 st.title("Email Spam Classifier")
 
